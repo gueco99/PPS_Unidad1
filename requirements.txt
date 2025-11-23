@@ -1,0 +1,12 @@
+# Requerimientos
+
+El proyecto utiliza Python y el framework **pytest** para ejecutar la
+batería de tests.
+
+## Instalación
+
+Para instalar las dependencias necesarias:
+
+``` bash
+pip install -r requirements.txt
+```
